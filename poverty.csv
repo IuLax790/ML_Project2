@@ -1,0 +1,562 @@
+﻿Year,State,Number in Poverty,Percent in Poverty
+2011',Alabama,896117,19
+2011',Alaska,76021,11
+2011',Arizona,1201376,19
+2011',Arkansas,550079,19
+2011',California,6121726,17
+2011',Colorado,669267,13
+2011',Connecticut,373284,11
+2011',Delaware,111176,13
+2011',District of Columbia,111906,19
+2011',Florida,3178155,17
+2011',Georgia,1836715,19
+2011',Hawaii,161606,12
+2011',Idaho,256257,17
+2011',Illinois,1871484,15
+2011',Indiana,1001053,16
+2011',Iowa,376300,13
+2011',Kansas,383859,14
+2011',Kentucky,809764,19
+2011',Louisiana,910266,21
+2011',Maine,183723,14
+2011',Maryland,581244,10
+2011',Massachusetts,740512,12
+2011',Michigan,1687624,18
+2011',Minnesota,617185,12
+2011',Mississippi,658232,23
+2011',Missouri,922103,16
+2011',Montana,148183,15
+2011',Nebraska,230003,13
+2011',Nevada,423195,16
+2011',New Hampshire,114906,9
+2011',New Jersey,897916,10
+2011',New Mexico,427340,21
+2011',New York,3043461,16
+2011',North Carolina,1673627,18
+2011',North Dakota,79124,12
+2011',Ohio,1836098,16
+2011',Oklahoma,636083,17
+2011',Oregon,655245,17
+2011',Pennsylvania,1690003,14
+2011',Rhode Island,148079,15
+2011',South Carolina,852999,19
+2011',South Dakota,112258,14
+2011',Tennessee,1148161,18
+2011',Texas,4627604,19
+2011',Utah,377396,14
+2011',Vermont,71378,12
+2011',Virginia,912779,12
+2011',Washington,931605,14
+2011',West Virginia,336658,19
+2011',Wisconsin,728099,13
+2011',Wyoming,62801,11
+2012',Alabama,896515,19
+2012',Alaska,77494,11
+2012',Arizona,1195931,19
+2012',Arkansas,560928,20
+2012',California,6323433,17
+2012',Colorado,688715,14
+2012',Connecticut,370537,11
+2012',Delaware,113316,13
+2012',District of Columbia,112719,19
+2012',Florida,3248276,17
+2012',Georgia,1852459,19
+2012',Hawaii,159988,12
+2012',Idaho,250203,16
+2012',Illinois,1847371,15
+2012',Indiana,984948,16
+2012',Iowa,377110,13
+2012',Kansas,392095,14
+2012',Kentucky,821067,19
+2012',Louisiana,900395,20
+2012',Maine,186484,14
+2012',Maryland,597705,10
+2012',Massachusetts,762971,12
+2012',Michigan,1677776,17
+2012',Minnesota,597515,11
+2012',Mississippi,689116,24
+2012',Missouri,945435,16
+2012',Montana,153105,16
+2012',Nebraska,230375,13
+2012',Nevada,441373,16
+2012',New Hampshire,123773,10
+2012',New Jersey,934277,11
+2012',New Mexico,421123,21
+2012',New York,3040207,16
+2012',North Carolina,1706255,18
+2012',North Dakota,75251,11
+2012',Ohio,1818886,16
+2012',Oklahoma,636134,17
+2012',Oregon,651302,17
+2012',Pennsylvania,1688364,14
+2012',Rhode Island,143625,14
+2012',South Carolina,837327,18
+2012',South Dakota,109661,14
+2012',Tennessee,1135205,18
+2012',Texas,4565185,18
+2012',Utah,364124,13
+2012',Vermont,71626,12
+2012',Virginia,936384,12
+2012',Washington,916976,14
+2012',West Virginia,323978,18
+2012',Wisconsin,738226,13
+2012',Wyoming,66879,12
+2013',Alabama,889091,19
+2013',Alaska,72643,10
+2013',Arizona,1206948,19
+2013',Arkansas,557399,19
+2013',California,6328064,17
+2013',Colorado,665351,13
+2013',Connecticut,373387,11
+2013',Delaware,115774,13
+2013',District of Columbia,115096,19
+2013',Florida,3268130,17
+2013',Georgia,1849944,19
+2013',Hawaii,153375,11
+2013',Idaho,246708,16
+2013',Illinois,1841996,15
+2013',Indiana,1008411,16
+2013',Iowa,377037,13
+2013',Kansas,391718,14
+2013',Kentucky,803044,19
+2013',Louisiana,897284,20
+2013',Maine,181386,14
+2013',Maryland,591457,10
+2013',Massachusetts,770922,12
+2013',Michigan,1646038,17
+2013',Minnesota,592526,11
+2013',Mississippi,692058,24
+2013',Missouri,928778,16
+2013',Montana,159248,16
+2013',Nebraska,234742,13
+2013',Nevada,433267,16
+2013',New Hampshire,115146,9
+2013',New Jersey,995390,11
+2013',New Mexico,437923,21
+2013',New York,3068230,16
+2013',North Carolina,1711331,18
+2013',North Dakota,81055,12
+2013',Ohio,1793523,16
+2013',Oklahoma,624209,17
+2013',Oregon,637505,17
+2013',Pennsylvania,1687854,14
+2013',Rhode Island,148275,15
+2013',South Carolina,858553,19
+2013',South Dakota,114291,14
+2013',Tennessee,1128618,18
+2013',Texas,4531427,18
+2013',Utah,360119,13
+2013',Vermont,73947,12
+2013',Virginia,941059,12
+2013',Washington,963088,14
+2013',West Virginia,331674,18
+2013',Wisconsin,753709,14
+2013',Wyoming,62118,11
+2014',Alabama,905682,19
+2014',Alaska,81622,11
+2014',Arizona,1195889,18
+2014',Arkansas,539999,19
+2014',California,6253423,16
+2014',Colorado,632987,12
+2014',Connecticut,375281,11
+2014',Delaware,118032,13
+2014',District of Columbia,114790,18
+2014',Florida,3231142,17
+2014',Georgia,1802783,18
+2014',Hawaii,158266,12
+2014',Idaho,237604,15
+2014',Illinois,1802337,14
+2014',Indiana,968437,15
+2014',Iowa,368678,12
+2014',Kansas,381506,14
+2014',Kentucky,812803,19
+2014',Louisiana,898902,20
+2014',Maine,181737,14
+2014',Maryland,604762,10
+2014',Massachusetts,760211,12
+2014',Michigan,1567465,16
+2014',Minnesota,607870,11
+2014',Mississippi,634960,22
+2014',Missouri,908394,16
+2014',Montana,151915,15
+2014',Nebraska,225054,12
+2014',Nevada,430447,15
+2014',New Hampshire,117822,9
+2014',New Jersey,972441,11
+2014',New Mexico,420388,21
+2014',New York,3082613,16
+2014',North Carolina,1663954,17
+2014',North Dakota,79203,11
+2014',Ohio,1778288,16
+2014',Oklahoma,623162,17
+2014',Oregon,637156,16
+2014',Pennsylvania,1679008,14
+2014',Rhode Island,149825,15
+2014',South Carolina,838065,18
+2014',South Dakota,115906,14
+2014',Tennessee,1165245,18
+2014',Texas,4519548,17
+2014',Utah,341587,12
+2014',Vermont,72294,12
+2014',Virginia,955541,12
+2014',Washington,913463,13
+2014',West Virginia,328734,18
+2014',Wisconsin,737307,13
+2014',Wyoming,63860,11
+2015',Alabama,875853,19
+2015',Alaska,74941,10
+2015',Arizona,1159046,17
+2015',Arkansas,540733,19
+2015',California,5896255,15
+2015',Colorado,614410,12
+2015',Connecticut,367867,11
+2015',Delaware,115655,13
+2015',District of Columbia,113185,18
+2015',Florida,3129061,16
+2015',Georgia,1705831,17
+2015',Hawaii,149091,11
+2015',Idaho,238646,15
+2015',Illinois,1702210,14
+2015',Indiana,924428,14
+2015',Iowa,366453,12
+2015',Kansas,366069,13
+2015',Kentucky,786345,18
+2015',Louisiana,885846,20
+2015',Maine,171266,13
+2015',Maryland,583369,10
+2015',Massachusetts,752453,12
+2015',Michigan,1524330,16
+2015',Minnesota,546499,10
+2015',Mississippi,638919,22
+2015',Missouri,875704,15
+2015',Montana,144634,14
+2015',Nebraska,224696,12
+2015',Nevada,424824,15
+2015',New Hampshire,108293,8
+2015',New Jersey,945989,11
+2015',New Mexico,405364,20
+2015',New York,2985604,16
+2015',North Carolina,1607249,16
+2015',North Dakota,78613,11
+2015',Ohio,1670487,15
+2015',Oklahoma,608507,16
+2015',Oregon,601626,15
+2015',Pennsylvania,1624991,13
+2015',Rhode Island,143724,14
+2015',South Carolina,796609,17
+2015',South Dakota,111697,14
+2015',Tennessee,1077866,17
+2015',Texas,4255690,16
+2015',Utah,331233,11
+2015',Vermont,62643,10
+2015',Virginia,914226,11
+2015',Washington,860734,12
+2015',West Virginia,322589,18
+2015',Wisconsin,679937,12
+2015',Wyoming,60787,11
+2016',Alabama,814197,17
+2016',Alaska,71916,10
+2016',Arizona,1107153,16
+2016',Arkansas,497388,17
+2016',California,5527621,14
+2016',Colorado,598378,11
+2016',Connecticut,342171,10
+2016',Delaware,109592,12
+2016',District of Columbia,119778,19
+2016',Florida,2986237,15
+2016',Georgia,1612368,16
+2016',Hawaii,132597,10
+2016',Idaho,228037,14
+2016',Illinois,1620974,13
+2016',Indiana,899168,14
+2016',Iowa,354429,12
+2016',Kansas,343773,12
+2016',Kentucky,782779,18
+2016',Louisiana,911970,20
+2016',Maine,159523,12
+2016',Maryland,572786,10
+2016',Massachusetts,688366,11
+2016',Michigan,1449683,15
+2016',Minnesota,531789,10
+2016',Mississippi,606873,21
+2016',Missouri,826358,14
+2016',Montana,136439,13
+2016',Nebraska,208864,11
+2016',Nevada,407308,14
+2016',New Hampshire,97753,8
+2016',New Jersey,915390,10
+2016',New Mexico,390461,19
+2016',New York,2843954,15
+2016',North Carolina,1523034,15
+2016',North Dakota,76951,11
+2016',Ohio,1639636,15
+2016',Oklahoma,615050,16
+2016',Oregon,538169,13
+2016',Pennsylvania,1589584,13
+2016',Rhode Island,134683,13
+2016',South Carolina,739574,15
+2016',South Dakota,107953,13
+2016',Tennessee,1023825,16
+2016',Texas,4261291,16
+2016',Utah,307270,10
+2016',Vermont,67825,11
+2016',Virginia,897244,11
+2016',Washington,808582,11
+2016',West Virginia,318368,18
+2016',Wisconsin,661465,12
+2016',Wyoming,62416,11
+2017',Alabama,802263,17
+2017',Alaska,79428,11
+2017',Arizona,1023337,15
+2017',Arkansas,475883,16
+2017',California,5164169,13
+2017',Colorado,566118,10
+2017',Connecticut,338651,10
+2017',Delaware,121592,13
+2017',District of Columbia,109502,17
+2017',Florida,2901876,14
+2017',Georgia,1536069,15
+2017',Hawaii,132201,10
+2017',Idaho,211937,13
+2017',Illinois,1568670,13
+2017',Indiana,860753,13
+2017',Iowa,328629,11
+2017',Kansas,335371,12
+2017',Kentucky,738563,17
+2017',Louisiana,893827,20
+2017',Maine,147413,11
+2017',Maryland,556549,9
+2017',Massachusetts,692943,11
+2017',Michigan,1373358,14
+2017',Minnesota,517348,10
+2017',Mississippi,573717,20
+2017',Missouri,793001,13
+2017',Montana,130616,13
+2017',Nebraska,198984,11
+2017',Nevada,392857,13
+2017',New Hampshire,100550,8
+2017',New Jersey,882132,10
+2017',New Mexico,388790,19
+2017',New York,2735578,14
+2017',North Carolina,1468032,15
+2017',North Dakota,74057,10
+2017',Ohio,1575401,14
+2017',Oklahoma,600911,16
+2017',Oregon,534846,13
+2017',Pennsylvania,1548557,13
+2017',Rhode Island,125208,12
+2017',South Carolina,750359,15
+2017',South Dakota,107522,13
+2017',Tennessee,980394,15
+2017',Texas,4080377,15
+2017',Utah,296138,10
+2017',Vermont,65068,11
+2017',Virginia,876438,11
+2017',Washington,799675,11
+2017',West Virginia,326502,19
+2017',Wisconsin,640174,11
+2017',Wyoming,61319,11
+2018',Alabama,801758,17
+2018',Alaska,80224,11
+2018',Arizona,990291,14
+2018',Arkansas,492306,17
+2018',California,4972955,13
+2018',Colorado,540579,10
+2018',Connecticut,358519,10
+2018',Delaware,114691,12
+2018',District of Columbia,107806,16
+2018',Florida,2854438,14
+2018',Georgia,1484439,15
+2018',Hawaii,124400,9
+2018',Idaho,201804,12
+2018',Illinois,1509348,12
+2018',Indiana,844165,13
+2018',Iowa,342574,11
+2018',Kansas,336892,12
+2018',Kentucky,723053,17
+2018',Louisiana,848005,19
+2018',Maine,151458,12
+2018',Maryland,538824,9
+2018',Massachusetts,668402,10
+2018',Michigan,1369235,14
+2018',Minnesota,527445,10
+2018',Mississippi,571402,20
+2018',Missouri,785343,13
+2018',Montana,134185,13
+2018',Nebraska,205393,11
+2018',Nevada,391347,13
+2018',New Hampshire,100076,8
+2018',New Jersey,831386,10
+2018',New Mexico,386739,19
+2018',New York,2603303,14
+2018',North Carolina,1422154,14
+2018',North Dakota,77959,11
+2018',Ohio,1568586,14
+2018',Oklahoma,593936,16
+2018',Oregon,516014,13
+2018',Pennsylvania,1517936,12
+2018',Rhode Island,130538,13
+2018',South Carolina,750582,15
+2018',South Dakota,109814,13
+2018',Tennessee,1003055,15
+2018',Texas,4181623,15
+2018',Utah,283562,9
+2018',Vermont,64431,11
+2018',Virginia,884898,11
+2018',Washington,761941,10
+2018',West Virginia,305656,17
+2018',Wisconsin,626748,11
+2018',Wyoming,60097,11
+2019',Alabama,747478,16
+2019',Alaska,73033,10
+2019',Arizona,963007,14
+2019',Arkansas,468575,16
+2019',California,4560419,12
+2019',Colorado,531331,9
+2019',Connecticut,343101,10
+2019',Delaware,106227,11
+2019',District of Columbia,94985,14
+2019',Florida,2681832,13
+2019',Georgia,1397607,14
+2019',Hawaii,124650,9
+2019',Idaho,193741,11
+2019',Illinois,1415838,11
+2019',Indiana,773367,12
+2019',Iowa,337156,11
+2019',Kansas,319931,11
+2019',Kentucky,692875,16
+2019',Louisiana,847739,19
+2019',Maine,141566,11
+2019',Maryland,537717,9
+2019',Massachusetts,631551,10
+2019',Michigan,1264445,13
+2019',Minnesota,491782,9
+2019',Mississippi,559764,20
+2019',Missouri,766238,13
+2019',Montana,130974,13
+2019',Nebraska,186402,10
+2019',Nevada,384900,13
+2019',New Hampshire,98310,8
+2019',New Jersey,795676,9
+2019',New Mexico,358526,18
+2019',New York,2471760,13
+2019',North Carolina,1383760,14
+2019',North Dakota,77327,11
+2019',Ohio,1474285,13
+2019',Oklahoma,578631,15
+2019',Oregon,474302,12
+2019',Pennsylvania,1481193,12
+2019',Rhode Island,118095,12
+2019',South Carolina,695259,14
+2019',South Dakota,101371,12
+2019',Tennessee,919850,14
+2019',Texas,3870944,14
+2019',Utah,279435,9
+2019',Vermont,60624,10
+2019',Virginia,822944,10
+2019',Washington,731216,10
+2019',West Virginia,281175,16
+2019',Wisconsin,591404,10
+2019',Wyoming,55776,10
+2020',Alabama,714568,15
+2020',Alaska,68714,10
+2020',Arizona,932555,13
+2020',Arkansas,448665,15
+2020',California,4419167,12
+2020',Colorado,511346,9
+2020',Connecticut,333435,10
+2020',Delaware,104400,11
+2020',District of Columbia,101959,15
+2020',Florida,2642642,12
+2020',Georgia,1465328,14
+2020',Hawaii,121182,9
+2020',Idaho,181197,10
+2020',Illinois,1351159,11
+2020',Indiana,760167,12
+2020',Iowa,313752,10
+2020',Kansas,300931,11
+2020',Kentucky,647158,15
+2020',Louisiana,802040,18
+2020',Maine,139614,11
+2020',Maryland,533561,9
+2020',Massachusetts,628899,9
+2020',Michigan,1232948,13
+2020',Minnesota,458302,8
+2020',Mississippi,536535,19
+2020',Missouri,725117,12
+2020',Montana,130711,12
+2020',Nebraska,172623,9
+2020',Nevada,386817,13
+2020',New Hampshire,92404,7
+2020',New Jersey,818389,9
+2020',New Mexico,346455,17
+2020',New York,2401141,13
+2020',North Carolina,1329685,13
+2020',North Dakota,75781,10
+2020',Ohio,1428219,13
+2020',Oklahoma,552168,14
+2020',Oregon,457940,11
+2020',Pennsylvania,1345976,11
+2020',Rhode Island,108306,11
+2020',South Carolina,703004,14
+2020',South Dakota,99903,12
+2020',Tennessee,911097,14
+2020',Texas,3862713,13
+2020',Utah,234666,7
+2020',Vermont,56281,9
+2020',Virginia,769479,9
+2020',Washington,714653,10
+2020',West Virginia,274176,16
+2020',Wisconsin,571049,10
+2020',Wyoming,52418,9
+2021',Alabama,800848,16
+2021',Alaska,77736,11
+2021',Arizona,919680,13
+2021',Arkansas,471195,16
+2021',California,4742405,12
+2021',Colorado,554126,10
+2021',Connecticut,355861,10
+2021',Delaware,113026,12
+2021',District of Columbia,107307,17
+2021',Florida,2830813,13
+2021',Georgia,1493837,14
+2021',Hawaii,152656,11
+2021',Idaho,202091,11
+2021',Illinois,1493042,12
+2021',Indiana,799733,12
+2021',Iowa,340626,11
+2021',Kansas,332457,12
+2021',Kentucky,712023,16
+2021',Louisiana,878477,20
+2021',Maine,149571,11
+2021',Maryland,620829,10
+2021',Massachusetts,701700,10
+2021',Michigan,1283086,13
+2021',Minnesota,519437,9
+2021',Mississippi,549710,19
+2021',Missouri,765097,13
+2021',Montana,129910,12
+2021',Nebraska,201627,11
+2021',Nevada,433095,14
+2021',New Hampshire,99562,7
+2021',New Jersey,925852,10
+2021',New Mexico,367050,18
+2021',New York,2703053,14
+2021',North Carolina,1383626,14
+2021',North Dakota,82270,11
+2021',Ohio,1523366,13
+2021',Oklahoma,599003,15
+2021',Oregon,507504,12
+2021',Pennsylvania,1503929,12
+2021',Rhode Island,126971,12
+2021',South Carolina,736098,15
+2021',South Dakota,103337,12
+2021',Tennessee,934856,14
+2021',Texas,4122799,14
+2021',Utah,286086,9
+2021',Vermont,63208,10
+2021',Virginia,862792,10
+2021',Washington,755589,10
+2021',West Virginia,291051,17
+2021',Wisconsin,622948,11
+2021',Wyoming,60226,11
