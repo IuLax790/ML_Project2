@@ -57,7 +57,7 @@ r2_score(y_test,y_pred)
 plt.figure(figsize=(10,8))
 plt.scatter(y_test,y_pred)
 plt.xlabel("Year(2011-2021) and States(Alabama-Wyoming) ")
-plt.ylabel('Povery Number')
+plt.ylabel('Poverty Number')
 plt.title('Poverty Prediction')
 
 print(plt.show())
