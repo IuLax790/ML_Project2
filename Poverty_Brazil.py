@@ -7,7 +7,7 @@ from sklearn.preprocessing import OneHotEncoder,LabelEncoder,StandardScaler
 from sklearn.model_selection import train_test_split
 import plotly.express as px
 
-Poverty = pd.read_csv("C:\Information_Science\My_projects\ML_Datasets\poverty_brazil.csv")
+Poverty = pd.read_csv("poverty_brazil.csv")
 
 Poverty['non_white'].fillna(Poverty['non_white'].value_counts().idxmax(), inplace=True)
 
